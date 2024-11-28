@@ -39,4 +39,4 @@ assets:
 - name: se/se999.win32.scd
   method: copy
   source:
-   - name: KABLAM
+   - name: KABLAM.scd
