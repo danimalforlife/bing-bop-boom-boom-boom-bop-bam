@@ -1,0 +1,34 @@
+title: bing bop boom boom boom bop bam
+originalAuthor: danimalforlife
+description: Fixes Kingdom Key sound effects. What they talkin' 'bout? They ain't talkin' 'bout nothin'
+
+assets:
+
+###Kingdom Key (Normal)###
+- name: remastered/obj/W_EX010.a.us/se/obj/se500
+  method: copy
+  source:
+   - name: bingbopboomboomboombopbam
+
+
+###Kingdom Key (Halloween Town)###
+- name: remastered/obj/W_EX010_NM.a.us/se/obj/se500
+  method: copy
+  source:
+   - name: bingbopboomboomboombopbam
+
+
+
+###Kingdom Key (Space Paranoids)###
+- name: remastered/obj/W_EX010_TR.a.us/se/obj/se500
+  method: copy
+  source:
+   - name: bingbopboomboomboombopbam
+
+
+
+###Kingdom Key (Timeless River)###
+- name: remastered/obj/W_EX010_WI.a.us/se/obj/se500
+  method: copy
+  source:
+   - name: bingbopboomboomboombopbam
