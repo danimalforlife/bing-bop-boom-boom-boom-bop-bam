@@ -1,6 +1,6 @@
 title: bing bop boom boom boom bop bam
 originalAuthor: danimalforlife
-description: Fixes Kingdom Key sound effects. What they talkin' 'bout? They ain't talkin' 'bout nothin'
+description: Fixes Kingdom Key sound effects. And explosion. What they talkin' 'bout? They ain't talkin' 'bout nothin'
 
 assets:
 
@@ -32,3 +32,11 @@ assets:
   method: copy
   source:
    - name: bingbopboomboomboombopbam
+
+
+###Explosion Sound Effect###
+### Sound 38 in file se999.win.32.scd###
+- name: se/se999.win32.scd
+  method: copy
+  source:
+   - name: KABLAM
