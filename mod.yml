@@ -35,7 +35,8 @@ assets:
 
 
 ###Explosion Sound Effect###
-###Sound 38 in file se999.win.32.scd###
+###Sounds 38 and 42 in file se999.win32.scd###
+###TURNS OUT THIS IS NOT THE EXPLOSION SOUND EFFECT. STILL LEAVING THIS HERE IN THE EVENT IT PLAYS UNEXPECTEDLY SOMEWHERE###
 - name: se/se999.win32.scd
   method: copy
   source:
